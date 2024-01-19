@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "ironspawners:block/diamond_spawner"
+    },
+    "powered=true": {
+      "model": "ironspawners:block/diamond_spawner"
+    }
+  }
+}

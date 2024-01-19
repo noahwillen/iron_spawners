@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "eee",
+    "eSe",
+    "eee"
+  ],
+  "key": {
+    "e": {
+      "item": "minecraft:emerald"
+    },
+    "S": {
+      "item": "ironspawners:gold_spawner"
+    }
+  },
+  "result": {
+    "item": "ironspawners:emerald_spawner",
+    "count": 1
+  }
+}

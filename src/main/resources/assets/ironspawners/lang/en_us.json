@@ -1,0 +1,8 @@
+{
+  "block.ironspawners.iron_spawner": "Iron Spawner",
+  "block.ironspawners.gold_spawner": "Gold Spawner",
+  "block.ironspawners.emerald_spawner": "Emerald Spawner",
+  "block.ironspawners.diamond_spawner": "Diamond Spawner",
+  "block.ironspawners.netherite_spawner": "Netherite Spawner",
+  "creativetab.ironspawners":  "Iron Spawners"
+}

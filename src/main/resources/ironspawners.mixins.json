@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "compatibilityLevel": "JAVA_17",
+  "package": "net.noah.ironspawners.mixins",
+  "refmap": "ironspawners.refmap.json",
+  "mixins": [
+    "VanillaSpawnerXpDrops"
+  ],
+  "client": [
+  ]
+}

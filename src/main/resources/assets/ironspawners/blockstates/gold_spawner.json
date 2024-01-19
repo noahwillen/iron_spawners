@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "ironspawners:block/gold_spawner"
+    },
+    "powered=true": {
+      "model": "ironspawners:block/gold_spawner"
+    }
+  }
+}

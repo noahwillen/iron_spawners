@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "ironspawners:block/emerald_spawner"
+    },
+    "powered=true": {
+      "model": "ironspawners:block/emerald_spawner"
+    }
+  }
+}

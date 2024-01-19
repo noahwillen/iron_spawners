@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "ironspawners:block/netherite_spawner"
+    },
+    "powered=true": {
+      "model": "ironspawners:block/netherite_spawner"
+    }
+  }
+}
